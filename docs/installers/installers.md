@@ -14,6 +14,7 @@ Installers
 * [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [k3d](https://github.com/rancher/k3d) - A tool for running k3s clusters in container nodes
+* [k8s bare metal cluster installer](https://github.com/alexey-anufriev/kubernetes-bare-metal-cluster-installer) - Ubuntu - Bare Metal
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
 * [Kops](https://github.com/kubernetes/kops) - OS Agnostic - AWS
 * [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) - Easily deploy production-ready Kubernetes clusters, with all associated operational services
